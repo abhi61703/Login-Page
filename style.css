@@ -1,0 +1,60 @@
+body{
+    font-family: cursive;
+    text-align: left;
+    background-image: url(959309.jpg);
+    
+}
+.sign-up{
+    width: 400px;
+    padding: 20px;
+    text-align: center;
+    background: rgb(181, 176, 169);
+    opacity: 50%;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    overflow: hidden;
+    border-radius: 20px;
+    box-shadow: 20px 20px 20px 20px;
+}
+label{
+    text-align: left;
+}
+h1{
+    color: black;
+    text-decoration: solid;
+    text-decoration: underline;
+    text-align: center;
+    /* margin-bottom: 200px; */
+}
+.box{
+    border-radius: 3px;
+}
+i{
+    width: 70px;
+    margin-right: 10px; 
+    font-size: 30px;  
+    color: black;
+}
+#facebook{
+    color:  #3b5998;
+}
+#linkedin{
+    color: #0077b5;
+}
+#google{
+    color: red;
+}
+
+.names{
+    display: inline-block;
+    width:420px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bolder;
+
+}
+.names span
+{
+    margin-right: 20px;
+}
